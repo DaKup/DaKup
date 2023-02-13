@@ -1,1 +1,1 @@
-![](https://github.com/DaKup/media/manim_pi.gif)
+![](https://github.com/DaKup/Dakup/media/manim_pi.gif)
